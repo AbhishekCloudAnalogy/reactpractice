@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4648f543-9d19-44c0-8087-40b363ebf6ee" name="Default Changelist" comment="">
+      <change afterPath="$USER_HOME$/.WebStorm2018.3/system/workspace/angular-pwa.6b3ee0ca.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.WebStorm2018.3/system/workspace/angular2-calculator.5b0daf5a.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.WebStorm2018.3/system/workspace/pwademo.d0f66598.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.WebStorm2018.3/system/workspace/pwatest.d0fdac47.xml" afterDir="false" />
+      <change afterPath="C:/pwatest/public/3rdpartylicenses.txt" afterDir="false" />
+      <change afterPath="C:/pwatest/public/assets/32X32_TSlogo.png" afterDir="false" />
+      <change afterPath="C:/pwatest/public/assets/8448280c4dbe5e70-32x32.png" afterDir="false" />
+      <change afterPath="C:/pwatest/public/assets/Untitled-1.png" afterDir="false" />
+      <change afterPath="C:/pwatest/public/assets/github.png" afterDir="false" />
+      <change afterPath="C:/pwatest/public/assets/icons/icon-128x128.png" afterDir="false" />
+      <change afterPath="C:/pwatest/public/assets/icons/icon-144x144.png" afterDir="false" />
+      <change afterPath="C:/pwatest/public/assets/icons/icon-152x152.png" afterDir="false" />
+      <change afterPath="C:/pwatest/public/assets/icons/icon-192x192.png" afterDir="false" />
+      <change afterPath="C:/pwatest/public/assets/icons/icon-384x384.png" afterDir="false" />
+      <change afterPath="C:/pwatest/public/assets/icons/icon-512x512.png" afterDir="false" />
+      <change afterPath="C:/pwatest/public/assets/icons/icon-72x72.png" afterDir="false" />
+      <change afterPath="C:/pwatest/public/assets/icons/icon-96x96.png" afterDir="false" />
+      <change afterPath="C:/pwatest/public/assets/js-32x32.png" afterDir="false" />
+      <change afterPath="C:/pwatest/public/assets/pexels-photo-167682-p-1080x720.png" afterDir="false" />
+      <change afterPath="C:/pwatest/public/assets/pexels-photo-167682-p-1600x1067.png" afterDir="false" />
+      <change afterPath="C:/pwatest/public/assets/pexels-photo-167682-p-500x334.png" afterDir="false" />
+      <change afterPath="C:/pwatest/public/assets/pexels-photo-167682-p-800x534.png" afterDir="false" />
+      <change afterPath="C:/pwatest/public/assets/pexels-photo-167682.png" afterDir="false" />
+      <change afterPath="C:/pwatest/public/es2015-polyfills.bda95d5896422d031328.js" afterDir="false" />
+      <change afterPath="C:/pwatest/public/favicon.ico" afterDir="false" />
+      <change afterPath="C:/pwatest/public/index.html" afterDir="false" />
+      <change afterPath="C:/pwatest/public/main.b55c0ef97cfc16c9daee.js" afterDir="false" />
+      <change afterPath="C:/pwatest/public/manifest.json" afterDir="false" />
+      <change afterPath="C:/pwatest/public/ngsw-worker.js" afterDir="false" />
+      <change afterPath="C:/pwatest/public/ngsw.json" afterDir="false" />
+      <change afterPath="C:/pwatest/public/pexels-photo-167682.3ca7cac82b6cf039f99f.png" afterDir="false" />
+      <change afterPath="C:/pwatest/public/polyfills.8bbb231b43165d65d357.js" afterDir="false" />
+      <change afterPath="C:/pwatest/public/runtime.26209474bfa8dc87a77c.js" afterDir="false" />
+      <change afterPath="C:/pwatest/public/safety-worker.js" afterDir="false" />
+      <change afterPath="C:/pwatest/public/styles.0651ab33d93b47e2a462.css" afterDir="false" />
+      <change afterPath="C:/pwatest/public/worker-basic.min.js" afterDir="false" />
+      <change afterPath="C:/pwatest/src/assets/32X32_TSlogo.png" afterDir="false" />
+      <change afterPath="C:/pwatest/src/assets/8448280c4dbe5e70-32x32.png" afterDir="false" />
+      <change afterPath="C:/pwatest/src/assets/Untitled-1.png" afterDir="false" />
+      <change afterPath="C:/pwatest/src/assets/github.png" afterDir="false" />
+      <change afterPath="C:/pwatest/src/assets/js-32x32.png" afterDir="false" />
+      <change afterPath="C:/pwatest/src/assets/pexels-photo-167682-p-1080x720.png" afterDir="false" />
+      <change afterPath="C:/pwatest/src/assets/pexels-photo-167682-p-1600x1067.png" afterDir="false" />
+      <change afterPath="C:/pwatest/src/assets/pexels-photo-167682-p-500x334.png" afterDir="false" />
+      <change afterPath="C:/pwatest/src/assets/pexels-photo-167682-p-800x534.png" afterDir="false" />
+      <change afterPath="C:/pwatest/src/assets/pexels-photo-167682.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person/Person.css" afterDir="false" />
+      <change beforePath="C:/AngularSFDC/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/.WebStorm2018.3/system/workspace/analogclock.4a67af91.xml" beforeDir="false" afterPath="$USER_HOME$/.WebStorm2018.3/system/workspace/analogclock.4a67af91.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/.WebStorm2018.3/system/workspace/angular.a879af5d.xml" beforeDir="false" afterPath="$USER_HOME$/.WebStorm2018.3/system/workspace/angular.a879af5d.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/.WebStorm2018.3/system/workspace/angular2-calculator.235d81f2.xml" beforeDir="false" afterPath="$USER_HOME$/.WebStorm2018.3/system/workspace/angular2-calculator.235d81f2.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/.WebStorm2018.3/system/workspace/angular_calculator.661d3f8c.xml" beforeDir="false" afterPath="$USER_HOME$/.WebStorm2018.3/system/workspace/angular_calculator.661d3f8c.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/.WebStorm2018.3/system/workspace/angularsfdc.ceb92acf.xml" beforeDir="false" afterPath="$USER_HOME$/.WebStorm2018.3/system/workspace/angularsfdc.ceb92acf.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/.WebStorm2018.3/system/workspace/calc-app.e9560f6.xml" beforeDir="false" afterPath="$USER_HOME$/.WebStorm2018.3/system/workspace/calc-app.e9560f6.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/.WebStorm2018.3/system/workspace/coldemails-master.dce83d58.xml" beforeDir="false" afterPath="$USER_HOME$/.WebStorm2018.3/system/workspace/coldemails-master.dce83d58.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/.WebStorm2018.3/system/workspace/formexample.7f412401.xml" beforeDir="false" afterPath="$USER_HOME$/.WebStorm2018.3/system/workspace/formexample.7f412401.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/.WebStorm2018.3/system/workspace/sfdcangular.6358f8b.xml" beforeDir="false" afterPath="$USER_HOME$/.WebStorm2018.3/system/workspace/sfdcangular.6358f8b.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/.WebStorm2018.3/system/workspace/stopwatch.77088d60.xml" beforeDir="false" afterPath="$USER_HOME$/.WebStorm2018.3/system/workspace/stopwatch.77088d60.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/.WebStorm2018.3/system/workspace/stopwatchtimer.68bbc1e5.xml" beforeDir="false" afterPath="$USER_HOME$/.WebStorm2018.3/system/workspace/stopwatchtimer.68bbc1e5.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/.WebStorm2018.3/system/workspace/todomvc-angular-4.f56bbaa3.xml" beforeDir="false" afterPath="$USER_HOME$/.WebStorm2018.3/system/workspace/todomvc-angular-4.f56bbaa3.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/.WebStorm2018.3/system/workspace/vuedemo.b2a75e4.xml" beforeDir="false" afterPath="$USER_HOME$/.WebStorm2018.3/system/workspace/vuedemo.b2a75e4.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/.WebStorm2018.3/system/workspace/vuejsexersize.ff26b02b.xml" beforeDir="false" afterPath="$USER_HOME$/.WebStorm2018.3/system/workspace/vuejsexersize.ff26b02b.xml" afterDir="false" />
+      <change beforePath="C:/formExample/src/app/user.ts" beforeDir="false" afterPath="C:/formExample/src/app/user.ts" afterDir="false" />
+      <change beforePath="C:/salesforce-angularcomponents/analogClock/.env" beforeDir="false" afterPath="C:/salesforce-angularcomponents/analogClock/.env" afterDir="false" />
+      <change beforePath="C:/salesforce-angularcomponents/stopwatch/.idea/workspace.xml" beforeDir="false" afterPath="C:/salesforce-angularcomponents/stopwatch/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="C:/vuejsexersize/index.html" beforeDir="false" />
+      <change beforePath="C:/vuejsexersize/introductionvThree.js" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="85" column="83" selection-start-line="85" selection-start-column="83" selection-end-line="85" selection-end-column="83" />
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="13" column="33" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="5" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Person/Person.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Person/Person.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="C:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/index.css" />
+        <option value="$PROJECT_DIR$/src/Person/Person.css" />
+        <option value="$PROJECT_DIR$/src/App.css" />
+        <option value="$PROJECT_DIR$/src/Person/Person.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1927" />
+    <option name="y" value="-156" />
+    <option name="width" value="974" />
+    <option name="height" value="1087" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="react-complete-guide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-complete-guide" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-complete-guide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-complete-guide" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="C:\reactpractice\react-complete-guide\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4648f543-9d19-44c0-8087-40b363ebf6ee" name="Default Changelist" comment="" />
+      <created>1561038135924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561038135924</updated>
+      <workItem from="1561038143177" duration="20699000" />
+      <workItem from="1561126176446" duration="6999000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27698000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-164" width="1936" height="1096" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32977587" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49947312" visible="true" weight="0.59338313" />
+      <window_info anchor="bottom" id="Log Viewer" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SOQL Query" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50052685" side_tool="true" weight="0.32977587" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Anonymous Apex" order="13" />
+      <window_info anchor="bottom" id="Quokka" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/react-dom/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/logo.svg" />
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Person/Person.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Person/Person.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="85" column="83" selection-start-line="85" selection-start-column="83" selection-end-line="85" selection-end-column="83" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
