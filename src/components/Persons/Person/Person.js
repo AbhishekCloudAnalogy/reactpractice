@@ -1,14 +1,15 @@
 import React from 'react';
-import './Person.css'
-  const person =(props)=>{
-  const style ={
-    '@media (min-width: 500px)': {
-      width: '450px'
-    }
-  };
+import classes from './Person.css'
+  const persons =(props)=>{
+
+/*  const rnd = Math.random();
+  if(rnd > 0.7) {
+    throw new Error('Some thing went wrong');
+  }*/
+console.log('[Person.js] rendaring...');
    return (
 
-       <div className="Person">
+       <div className={classes.Person}>
          <p onClick={props.click}>I'm a {props.name}! and I am{props.age} ye ar old</p>
          <p>{props.children}</p>
          <input type="text" onChange={props.changed} value={props.name}/>
@@ -18,4 +19,4 @@ import './Person.css'
 
    )
   };
-  export default person;
+  export default persons;
